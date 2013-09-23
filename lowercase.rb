@@ -1,0 +1,1 @@
+puts open(ARGV.first).read.downcase

@@ -1,0 +1,1 @@
+puts File.stat(ARGV.first).size
